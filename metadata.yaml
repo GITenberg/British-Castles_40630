@@ -1,0 +1,26 @@
+_repo: British-Castles_40630
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40630-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Ashdown, Charles Henry
+    alias: Ashdown, Charles H.
+    gutenberg_agent_id: '44861'
+    url: http://www.gutenberg.org/2009/agents/44861
+description: ''
+gutenberg_issued: '2012-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40630'
+  lccn: '12039013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Castles -- Great Britain'
+title: British Castles
+url: http://www.gutenberg.org/ebooks/40630
